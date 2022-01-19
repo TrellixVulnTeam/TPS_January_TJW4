@@ -1,0 +1,1328 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "convertdate >=2.3.0",
+    "hijri-converter",
+    "korean_lunar_calendar",
+    "python >=3.6",
+    "python-dateutil"
+  ],
+  "extracted_package_dir": "/Users/gustavfredrikson/miniforge3/pkgs/holidays-0.12-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/LICENSE",
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/METADATA",
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/RECORD",
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/WHEEL",
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/holidays-0.12.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/holidays/__init__.py",
+    "lib/python3.10/site-packages/holidays/constants.py",
+    "lib/python3.10/site-packages/holidays/countries/__init__.py",
+    "lib/python3.10/site-packages/holidays/countries/angola.py",
+    "lib/python3.10/site-packages/holidays/countries/argentina.py",
+    "lib/python3.10/site-packages/holidays/countries/aruba.py",
+    "lib/python3.10/site-packages/holidays/countries/australia.py",
+    "lib/python3.10/site-packages/holidays/countries/austria.py",
+    "lib/python3.10/site-packages/holidays/countries/azerbaijan.py",
+    "lib/python3.10/site-packages/holidays/countries/bangladesh.py",
+    "lib/python3.10/site-packages/holidays/countries/belarus.py",
+    "lib/python3.10/site-packages/holidays/countries/belgium.py",
+    "lib/python3.10/site-packages/holidays/countries/botswana.py",
+    "lib/python3.10/site-packages/holidays/countries/brazil.py",
+    "lib/python3.10/site-packages/holidays/countries/bulgaria.py",
+    "lib/python3.10/site-packages/holidays/countries/burundi.py",
+    "lib/python3.10/site-packages/holidays/countries/canada.py",
+    "lib/python3.10/site-packages/holidays/countries/chile.py",
+    "lib/python3.10/site-packages/holidays/countries/china.py",
+    "lib/python3.10/site-packages/holidays/countries/colombia.py",
+    "lib/python3.10/site-packages/holidays/countries/croatia.py",
+    "lib/python3.10/site-packages/holidays/countries/curacao.py",
+    "lib/python3.10/site-packages/holidays/countries/czechia.py",
+    "lib/python3.10/site-packages/holidays/countries/denmark.py",
+    "lib/python3.10/site-packages/holidays/countries/djibouti.py",
+    "lib/python3.10/site-packages/holidays/countries/dominican_republic.py",
+    "lib/python3.10/site-packages/holidays/countries/egypt.py",
+    "lib/python3.10/site-packages/holidays/countries/estonia.py",
+    "lib/python3.10/site-packages/holidays/countries/ethiopia.py",
+    "lib/python3.10/site-packages/holidays/countries/european_central_bank.py",
+    "lib/python3.10/site-packages/holidays/countries/finland.py",
+    "lib/python3.10/site-packages/holidays/countries/france.py",
+    "lib/python3.10/site-packages/holidays/countries/georgia.py",
+    "lib/python3.10/site-packages/holidays/countries/germany.py",
+    "lib/python3.10/site-packages/holidays/countries/greece.py",
+    "lib/python3.10/site-packages/holidays/countries/honduras.py",
+    "lib/python3.10/site-packages/holidays/countries/hongkong.py",
+    "lib/python3.10/site-packages/holidays/countries/hungary.py",
+    "lib/python3.10/site-packages/holidays/countries/iceland.py",
+    "lib/python3.10/site-packages/holidays/countries/india.py",
+    "lib/python3.10/site-packages/holidays/countries/ireland.py",
+    "lib/python3.10/site-packages/holidays/countries/israel.py",
+    "lib/python3.10/site-packages/holidays/countries/italy.py",
+    "lib/python3.10/site-packages/holidays/countries/jamaica.py",
+    "lib/python3.10/site-packages/holidays/countries/japan.py",
+    "lib/python3.10/site-packages/holidays/countries/kazakhstan.py",
+    "lib/python3.10/site-packages/holidays/countries/kenya.py",
+    "lib/python3.10/site-packages/holidays/countries/korea.py",
+    "lib/python3.10/site-packages/holidays/countries/latvia.py",
+    "lib/python3.10/site-packages/holidays/countries/lesotho.py",
+    "lib/python3.10/site-packages/holidays/countries/lithuania.py",
+    "lib/python3.10/site-packages/holidays/countries/luxembourg.py",
+    "lib/python3.10/site-packages/holidays/countries/malawi.py",
+    "lib/python3.10/site-packages/holidays/countries/malaysia.py",
+    "lib/python3.10/site-packages/holidays/countries/mexico.py",
+    "lib/python3.10/site-packages/holidays/countries/morocco.py",
+    "lib/python3.10/site-packages/holidays/countries/mozambique.py",
+    "lib/python3.10/site-packages/holidays/countries/namibia.py",
+    "lib/python3.10/site-packages/holidays/countries/netherlands.py",
+    "lib/python3.10/site-packages/holidays/countries/new_zealand.py",
+    "lib/python3.10/site-packages/holidays/countries/nicaragua.py",
+    "lib/python3.10/site-packages/holidays/countries/nigeria.py",
+    "lib/python3.10/site-packages/holidays/countries/north_macedonia.py",
+    "lib/python3.10/site-packages/holidays/countries/norway.py",
+    "lib/python3.10/site-packages/holidays/countries/paraguay.py",
+    "lib/python3.10/site-packages/holidays/countries/peru.py",
+    "lib/python3.10/site-packages/holidays/countries/poland.py",
+    "lib/python3.10/site-packages/holidays/countries/portugal.py",
+    "lib/python3.10/site-packages/holidays/countries/romania.py",
+    "lib/python3.10/site-packages/holidays/countries/russia.py",
+    "lib/python3.10/site-packages/holidays/countries/saudi_arabia.py",
+    "lib/python3.10/site-packages/holidays/countries/serbia.py",
+    "lib/python3.10/site-packages/holidays/countries/singapore.py",
+    "lib/python3.10/site-packages/holidays/countries/slovakia.py",
+    "lib/python3.10/site-packages/holidays/countries/slovenia.py",
+    "lib/python3.10/site-packages/holidays/countries/south_africa.py",
+    "lib/python3.10/site-packages/holidays/countries/spain.py",
+    "lib/python3.10/site-packages/holidays/countries/swaziland.py",
+    "lib/python3.10/site-packages/holidays/countries/sweden.py",
+    "lib/python3.10/site-packages/holidays/countries/switzerland.py",
+    "lib/python3.10/site-packages/holidays/countries/taiwan.py",
+    "lib/python3.10/site-packages/holidays/countries/tunisia.py",
+    "lib/python3.10/site-packages/holidays/countries/turkey.py",
+    "lib/python3.10/site-packages/holidays/countries/ukraine.py",
+    "lib/python3.10/site-packages/holidays/countries/united_arab_emirates.py",
+    "lib/python3.10/site-packages/holidays/countries/united_kingdom.py",
+    "lib/python3.10/site-packages/holidays/countries/united_states.py",
+    "lib/python3.10/site-packages/holidays/countries/uruguay.py",
+    "lib/python3.10/site-packages/holidays/countries/venezuela.py",
+    "lib/python3.10/site-packages/holidays/countries/vietnam.py",
+    "lib/python3.10/site-packages/holidays/countries/zambia.py",
+    "lib/python3.10/site-packages/holidays/countries/zimbabwe.py",
+    "lib/python3.10/site-packages/holidays/holiday_base.py",
+    "lib/python3.10/site-packages/holidays/utils.py",
+    "lib/python3.10/site-packages/holidays/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/__pycache__/constants.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/angola.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/argentina.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/aruba.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/australia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/austria.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/azerbaijan.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/bangladesh.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/belarus.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/belgium.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/botswana.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/brazil.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/bulgaria.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/burundi.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/canada.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/chile.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/china.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/colombia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/croatia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/curacao.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/czechia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/denmark.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/djibouti.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/dominican_republic.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/egypt.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/estonia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/ethiopia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/european_central_bank.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/finland.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/france.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/georgia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/germany.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/greece.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/honduras.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/hongkong.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/hungary.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/iceland.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/india.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/ireland.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/israel.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/italy.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/jamaica.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/japan.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/kazakhstan.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/kenya.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/korea.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/latvia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/lesotho.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/lithuania.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/luxembourg.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/malawi.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/malaysia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/mexico.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/morocco.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/mozambique.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/namibia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/netherlands.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/new_zealand.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/nicaragua.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/nigeria.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/north_macedonia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/norway.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/paraguay.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/peru.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/poland.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/portugal.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/romania.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/russia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/saudi_arabia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/serbia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/singapore.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/slovakia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/slovenia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/south_africa.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/spain.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/swaziland.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/sweden.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/switzerland.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/taiwan.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/tunisia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/turkey.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/ukraine.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/united_arab_emirates.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/united_kingdom.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/united_states.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/uruguay.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/venezuela.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/vietnam.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/zambia.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/countries/__pycache__/zimbabwe.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/__pycache__/holiday_base.cpython-310.pyc",
+    "lib/python3.10/site-packages/holidays/__pycache__/utils.cpython-310.pyc"
+  ],
+  "fn": "holidays-0.12-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/gustavfredrikson/miniforge3/pkgs/holidays-0.12-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "700c7fde4588878b73be6b202e1c6a6e",
+  "name": "holidays",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/gustavfredrikson/miniforge3/pkgs/holidays-0.12-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "bb3c5c92d411c08dfcba51e214cd3667d696b5133a03180d593242613a02ed82",
+        "sha256_in_prefix": "bb3c5c92d411c08dfcba51e214cd3667d696b5133a03180d593242613a02ed82",
+        "size_in_bytes": 1123
+      },
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "1575ef005a0e21082c6e50105888c9e595a3a5ff711ea46eaecb74bdf4dddfa1",
+        "sha256_in_prefix": "1575ef005a0e21082c6e50105888c9e595a3a5ff711ea46eaecb74bdf4dddfa1",
+        "size_in_bytes": 22196
+      },
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "f54658e0697fb3513cb8af7544bee309f19d66848036d258739a2cdd1a2034af",
+        "sha256_in_prefix": "f54658e0697fb3513cb8af7544bee309f19d66848036d258739a2cdd1a2034af",
+        "size_in_bytes": 14400
+      },
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "17b3d65ca7df5962e59707b0abafc4859c003b5c3e4aebdd4f79adb218526869",
+        "sha256_in_prefix": "17b3d65ca7df5962e59707b0abafc4859c003b5c3e4aebdd4f79adb218526869",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "site-packages/holidays-0.12.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "32c01e91374f6128d29a07440a4c992af87858d713ee29a847c9416b66686165",
+        "sha256_in_prefix": "32c01e91374f6128d29a07440a4c992af87858d713ee29a847c9416b66686165",
+        "size_in_bytes": 28
+      },
+      {
+        "_path": "site-packages/holidays/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1a26af724107465e042e754034ed73e2c0e0eefb26c5a77c899144302a7d6a9c",
+        "sha256_in_prefix": "1a26af724107465e042e754034ed73e2c0e0eefb26c5a77c899144302a7d6a9c",
+        "size_in_bytes": 887
+      },
+      {
+        "_path": "site-packages/holidays/constants.py",
+        "path_type": "hardlink",
+        "sha256": "0dcffffa21f3f5b83cb37bfc213fe06bb582c6a1a43543efb8dcd34227261b4d",
+        "sha256_in_prefix": "0dcffffa21f3f5b83cb37bfc213fe06bb582c6a1a43543efb8dcd34227261b4d",
+        "size_in_bytes": 643
+      },
+      {
+        "_path": "site-packages/holidays/countries/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "67ca2fdef3fa5b912eaafe54984d4f7f0900842c5d6335723469fbe1220f1ffd",
+        "sha256_in_prefix": "67ca2fdef3fa5b912eaafe54984d4f7f0900842c5d6335723469fbe1220f1ffd",
+        "size_in_bytes": 4162
+      },
+      {
+        "_path": "site-packages/holidays/countries/angola.py",
+        "path_type": "hardlink",
+        "sha256": "15c89d2ce6c282c34a3fa122c9d61a86b131da579aca8114292c8919b6a35d80",
+        "sha256_in_prefix": "15c89d2ce6c282c34a3fa122c9d61a86b131da579aca8114292c8919b6a35d80",
+        "size_in_bytes": 3270
+      },
+      {
+        "_path": "site-packages/holidays/countries/argentina.py",
+        "path_type": "hardlink",
+        "sha256": "f6d5a07c1d4bce45414221e51f535f3d94f5b3b362dab8d12d62273acc4e2660",
+        "sha256_in_prefix": "f6d5a07c1d4bce45414221e51f535f3d94f5b3b362dab8d12d62273acc4e2660",
+        "size_in_bytes": 5918
+      },
+      {
+        "_path": "site-packages/holidays/countries/aruba.py",
+        "path_type": "hardlink",
+        "sha256": "633c0ef2ef707185e12fe2b93922e93e0f35d89a81fcf29cdc6437cce1612169",
+        "sha256_in_prefix": "633c0ef2ef707185e12fe2b93922e93e0f35d89a81fcf29cdc6437cce1612169",
+        "size_in_bytes": 3023
+      },
+      {
+        "_path": "site-packages/holidays/countries/australia.py",
+        "path_type": "hardlink",
+        "sha256": "0ab1da66d34b2db7ae709b83275c0084730f8173066d030db67018b47cdaa40f",
+        "sha256_in_prefix": "0ab1da66d34b2db7ae709b83275c0084730f8173066d030db67018b47cdaa40f",
+        "size_in_bytes": 9872
+      },
+      {
+        "_path": "site-packages/holidays/countries/austria.py",
+        "path_type": "hardlink",
+        "sha256": "0235148bd03ca28e211ac15d882edae9e509bc8da198049f62473fca10eec282",
+        "sha256_in_prefix": "0235148bd03ca28e211ac15d882edae9e509bc8da198049f62473fca10eec282",
+        "size_in_bytes": 1939
+      },
+      {
+        "_path": "site-packages/holidays/countries/azerbaijan.py",
+        "path_type": "hardlink",
+        "sha256": "e69b6c6020d94173ca3010c2c3452e348861ce1202c1ec64cfcfcdc67fc19ff2",
+        "sha256_in_prefix": "e69b6c6020d94173ca3010c2c3452e348861ce1202c1ec64cfcfcdc67fc19ff2",
+        "size_in_bytes": 3587
+      },
+      {
+        "_path": "site-packages/holidays/countries/bangladesh.py",
+        "path_type": "hardlink",
+        "sha256": "5c98b15ead9122f2fe6813d2b34da49a58e96b17759f2f5f81ffcb42d8305c82",
+        "sha256_in_prefix": "5c98b15ead9122f2fe6813d2b34da49a58e96b17759f2f5f81ffcb42d8305c82",
+        "size_in_bytes": 1719
+      },
+      {
+        "_path": "site-packages/holidays/countries/belarus.py",
+        "path_type": "hardlink",
+        "sha256": "47d1cdb07cab1017a777543d69da5e87363eca07ef014b7f10e5a269d2cf579b",
+        "sha256_in_prefix": "47d1cdb07cab1017a777543d69da5e87363eca07ef014b7f10e5a269d2cf579b",
+        "size_in_bytes": 2650
+      },
+      {
+        "_path": "site-packages/holidays/countries/belgium.py",
+        "path_type": "hardlink",
+        "sha256": "48d9a3fb4e1a7acd8ae532bcd2e679312a2472530f3674a0b2fe80877d2274c7",
+        "sha256_in_prefix": "48d9a3fb4e1a7acd8ae532bcd2e679312a2472530f3674a0b2fe80877d2274c7",
+        "size_in_bytes": 2100
+      },
+      {
+        "_path": "site-packages/holidays/countries/botswana.py",
+        "path_type": "hardlink",
+        "sha256": "5d4b636ef9b43aefc9fe7bee194c5e9503c9041763d2f3b348d3c03db9b7d9a5",
+        "sha256_in_prefix": "5d4b636ef9b43aefc9fe7bee194c5e9503c9041763d2f3b348d3c03db9b7d9a5",
+        "size_in_bytes": 4093
+      },
+      {
+        "_path": "site-packages/holidays/countries/brazil.py",
+        "path_type": "hardlink",
+        "sha256": "6d7afe4ca932d82624e55f730c0358c1388f44a3f76b574261a040d80165db66",
+        "sha256_in_prefix": "6d7afe4ca932d82624e55f730c0358c1388f44a3f76b574261a040d80165db66",
+        "size_in_bytes": 6615
+      },
+      {
+        "_path": "site-packages/holidays/countries/bulgaria.py",
+        "path_type": "hardlink",
+        "sha256": "7f3274537a8e0048aac38f50bce71e8784065e47eefd1e68a24b92192b2b8e26",
+        "sha256_in_prefix": "7f3274537a8e0048aac38f50bce71e8784065e47eefd1e68a24b92192b2b8e26",
+        "size_in_bytes": 3844
+      },
+      {
+        "_path": "site-packages/holidays/countries/burundi.py",
+        "path_type": "hardlink",
+        "sha256": "615025e2b7356ae94f5cf3a8ffaeaf93f2d18ff56d51293c7a7bef146391615c",
+        "sha256_in_prefix": "615025e2b7356ae94f5cf3a8ffaeaf93f2d18ff56d51293c7a7bef146391615c",
+        "size_in_bytes": 3561
+      },
+      {
+        "_path": "site-packages/holidays/countries/canada.py",
+        "path_type": "hardlink",
+        "sha256": "ce88ed3ea36224b636dd54e931d212ab8c4411b7a3666f2cf8b8a7be1416b83b",
+        "sha256_in_prefix": "ce88ed3ea36224b636dd54e931d212ab8c4411b7a3666f2cf8b8a7be1416b83b",
+        "size_in_bytes": 11381
+      },
+      {
+        "_path": "site-packages/holidays/countries/chile.py",
+        "path_type": "hardlink",
+        "sha256": "21771ab587e3a9f0cfdb844806f3ac9ea3ec2950e3a2c6aebeacd8902d46bfff",
+        "sha256_in_prefix": "21771ab587e3a9f0cfdb844806f3ac9ea3ec2950e3a2c6aebeacd8902d46bfff",
+        "size_in_bytes": 6720
+      },
+      {
+        "_path": "site-packages/holidays/countries/china.py",
+        "path_type": "hardlink",
+        "sha256": "8458bf2cda0b7279b03ab80bae0a13ee37c17f2d621a393844039e2c2689e902",
+        "sha256_in_prefix": "8458bf2cda0b7279b03ab80bae0a13ee37c17f2d621a393844039e2c2689e902",
+        "size_in_bytes": 2465
+      },
+      {
+        "_path": "site-packages/holidays/countries/colombia.py",
+        "path_type": "hardlink",
+        "sha256": "a1de1069b0e3f6fe00d7b3249ebb83c54498de8d1974b05dae170379ded9eb77",
+        "sha256_in_prefix": "a1de1069b0e3f6fe00d7b3249ebb83c54498de8d1974b05dae170379ded9eb77",
+        "size_in_bytes": 5637
+      },
+      {
+        "_path": "site-packages/holidays/countries/croatia.py",
+        "path_type": "hardlink",
+        "sha256": "ed3d0897e3162a6b7bf6cad272e039c74e9dacd9f7e7d9693b61340cfadb379f",
+        "sha256_in_prefix": "ed3d0897e3162a6b7bf6cad272e039c74e9dacd9f7e7d9693b61340cfadb379f",
+        "size_in_bytes": 2607
+      },
+      {
+        "_path": "site-packages/holidays/countries/curacao.py",
+        "path_type": "hardlink",
+        "sha256": "c15d3161b2ad926de606c59cc86094f0db20bf229b16b72f7652d05bc6f718de",
+        "sha256_in_prefix": "c15d3161b2ad926de606c59cc86094f0db20bf229b16b72f7652d05bc6f718de",
+        "size_in_bytes": 3035
+      },
+      {
+        "_path": "site-packages/holidays/countries/czechia.py",
+        "path_type": "hardlink",
+        "sha256": "4fb903540797ac07ac12916f94d43ef636021bef91c522ac6ae41eeed0e8b57a",
+        "sha256_in_prefix": "4fb903540797ac07ac12916f94d43ef636021bef91c522ac6ae41eeed0e8b57a",
+        "size_in_bytes": 2496
+      },
+      {
+        "_path": "site-packages/holidays/countries/denmark.py",
+        "path_type": "hardlink",
+        "sha256": "1f91858f3d5bb87fa76467aa4ffce976f2a3245673df7f5aea990c86876973f1",
+        "sha256_in_prefix": "1f91858f3d5bb87fa76467aa4ffce976f2a3245673df7f5aea990c86876973f1",
+        "size_in_bytes": 1725
+      },
+      {
+        "_path": "site-packages/holidays/countries/djibouti.py",
+        "path_type": "hardlink",
+        "sha256": "f2eb71df1b083a7af4823cc7f1d66263d2a6f77b9524117c497884a4aa2071fc",
+        "sha256_in_prefix": "f2eb71df1b083a7af4823cc7f1d66263d2a6f77b9524117c497884a4aa2071fc",
+        "size_in_bytes": 4033
+      },
+      {
+        "_path": "site-packages/holidays/countries/dominican_republic.py",
+        "path_type": "hardlink",
+        "sha256": "57989c52abee97a583a76db23d459c5cd5f353c5e4682204e1b4aea30931d104",
+        "sha256_in_prefix": "57989c52abee97a583a76db23d459c5cd5f353c5e4682204e1b4aea30931d104",
+        "size_in_bytes": 3362
+      },
+      {
+        "_path": "site-packages/holidays/countries/egypt.py",
+        "path_type": "hardlink",
+        "sha256": "2a65922dd67b748baddba59a01fccf833ca86fad0356f879be2c659cace497b0",
+        "sha256_in_prefix": "2a65922dd67b748baddba59a01fccf833ca86fad0356f879be2c659cace497b0",
+        "size_in_bytes": 4611
+      },
+      {
+        "_path": "site-packages/holidays/countries/estonia.py",
+        "path_type": "hardlink",
+        "sha256": "8f228caf9e09abe65a31c67269a13edb9a8a756022f6439d729d64d2910436bb",
+        "sha256_in_prefix": "8f228caf9e09abe65a31c67269a13edb9a8a756022f6439d729d64d2910436bb",
+        "size_in_bytes": 1947
+      },
+      {
+        "_path": "site-packages/holidays/countries/ethiopia.py",
+        "path_type": "hardlink",
+        "sha256": "d9afdf4367a2c00007e8a77025b695fe51a0df2dc880c400861138d150200510",
+        "sha256_in_prefix": "d9afdf4367a2c00007e8a77025b695fe51a0df2dc880c400861138d150200510",
+        "size_in_bytes": 5162
+      },
+      {
+        "_path": "site-packages/holidays/countries/european_central_bank.py",
+        "path_type": "hardlink",
+        "sha256": "5d18cb2f62aa73f4dee20b1ff33ebe6f30507fde6883b4a4e4a15c7247641383",
+        "sha256_in_prefix": "5d18cb2f62aa73f4dee20b1ff33ebe6f30507fde6883b4a4e4a15c7247641383",
+        "size_in_bytes": 1416
+      },
+      {
+        "_path": "site-packages/holidays/countries/finland.py",
+        "path_type": "hardlink",
+        "sha256": "b69bb7502fec1051079ba8f0e867c57164ca5ee3a1d049b4311a6de6abf8cc2c",
+        "sha256_in_prefix": "b69bb7502fec1051079ba8f0e867c57164ca5ee3a1d049b4311a6de6abf8cc2c",
+        "size_in_bytes": 1975
+      },
+      {
+        "_path": "site-packages/holidays/countries/france.py",
+        "path_type": "hardlink",
+        "sha256": "2a8db437cf626f7e0d84758d78c99f6a798cd15a352e9f6648db1ad783a0e46a",
+        "sha256_in_prefix": "2a8db437cf626f7e0d84758d78c99f6a798cd15a352e9f6648db1ad783a0e46a",
+        "size_in_bytes": 4709
+      },
+      {
+        "_path": "site-packages/holidays/countries/georgia.py",
+        "path_type": "hardlink",
+        "sha256": "f99c5d6b169ca4f055a410640ac7943c10991c711e555dee324b7d7710a87d66",
+        "sha256_in_prefix": "f99c5d6b169ca4f055a410640ac7943c10991c711e555dee324b7d7710a87d66",
+        "size_in_bytes": 3408
+      },
+      {
+        "_path": "site-packages/holidays/countries/germany.py",
+        "path_type": "hardlink",
+        "sha256": "cdf312b7844dfd353cacf123a1676ecfb097fc561998ac1d574d9b0fb157b0d5",
+        "sha256_in_prefix": "cdf312b7844dfd353cacf123a1676ecfb097fc561998ac1d574d9b0fb157b0d5",
+        "size_in_bytes": 6002
+      },
+      {
+        "_path": "site-packages/holidays/countries/greece.py",
+        "path_type": "hardlink",
+        "sha256": "e66ce39477ba5d8dda5c62cbd9ff9f8c520257811b6de6cf30ed6ac9e1539a27",
+        "sha256_in_prefix": "e66ce39477ba5d8dda5c62cbd9ff9f8c520257811b6de6cf30ed6ac9e1539a27",
+        "size_in_bytes": 2385
+      },
+      {
+        "_path": "site-packages/holidays/countries/honduras.py",
+        "path_type": "hardlink",
+        "sha256": "c02ed5b68df6e66ef439a225c528eeff33b8d0718748232722e054d73116ee2a",
+        "sha256_in_prefix": "c02ed5b68df6e66ef439a225c528eeff33b8d0718748232722e054d73116ee2a",
+        "size_in_bytes": 5078
+      },
+      {
+        "_path": "site-packages/holidays/countries/hongkong.py",
+        "path_type": "hardlink",
+        "sha256": "e5ed8c94e2ca67789b16f1d38e29164775c40c3b311bc755cfc3172f113dc38f",
+        "sha256_in_prefix": "e5ed8c94e2ca67789b16f1d38e29164775c40c3b311bc755cfc3172f113dc38f",
+        "size_in_bytes": 9896
+      },
+      {
+        "_path": "site-packages/holidays/countries/hungary.py",
+        "path_type": "hardlink",
+        "sha256": "e37f42797eb86b4022b9fe2849aea6572bc24d9f652c40d6ffa0e67e8f71d4d2",
+        "sha256_in_prefix": "e37f42797eb86b4022b9fe2849aea6572bc24d9f652c40d6ffa0e67e8f71d4d2",
+        "size_in_bytes": 5210
+      },
+      {
+        "_path": "site-packages/holidays/countries/iceland.py",
+        "path_type": "hardlink",
+        "sha256": "42501651b6a5209e3955390840bd2c200f9dbab29b0b69eb668858d8adb17ca5",
+        "sha256_in_prefix": "42501651b6a5209e3955390840bd2c200f9dbab29b0b69eb668858d8adb17ca5",
+        "size_in_bytes": 2134
+      },
+      {
+        "_path": "site-packages/holidays/countries/india.py",
+        "path_type": "hardlink",
+        "sha256": "5474253d731b94c638a3fc10b04ef6491e19dd55878ebeeefd4f85214752bd47",
+        "sha256_in_prefix": "5474253d731b94c638a3fc10b04ef6491e19dd55878ebeeefd4f85214752bd47",
+        "size_in_bytes": 8262
+      },
+      {
+        "_path": "site-packages/holidays/countries/ireland.py",
+        "path_type": "hardlink",
+        "sha256": "848d2dbe823312ca8feae3cc56ba9a15a680dea0f3838879bf1b5932e3d0fc78",
+        "sha256_in_prefix": "848d2dbe823312ca8feae3cc56ba9a15a680dea0f3838879bf1b5932e3d0fc78",
+        "size_in_bytes": 3017
+      },
+      {
+        "_path": "site-packages/holidays/countries/israel.py",
+        "path_type": "hardlink",
+        "sha256": "5dadb39e720bf4e7b150d05e211756a1fdc1c568cc81516fbfeee3d7f1ee8ee4",
+        "sha256_in_prefix": "5dadb39e720bf4e7b150d05e211756a1fdc1c568cc81516fbfeee3d7f1ee8ee4",
+        "size_in_bytes": 4413
+      },
+      {
+        "_path": "site-packages/holidays/countries/italy.py",
+        "path_type": "hardlink",
+        "sha256": "0e9fbf392154ecfc73a3e938621f798b636cbd420e727159ed0c07494df61488",
+        "sha256_in_prefix": "0e9fbf392154ecfc73a3e938621f798b636cbd420e727159ed0c07494df61488",
+        "size_in_bytes": 6970
+      },
+      {
+        "_path": "site-packages/holidays/countries/jamaica.py",
+        "path_type": "hardlink",
+        "sha256": "0ac4d0fb699e3891d7a754dbe35f712029f20b632d1333e1724f824a8f63b6d8",
+        "sha256_in_prefix": "0ac4d0fb699e3891d7a754dbe35f712029f20b632d1333e1724f824a8f63b6d8",
+        "size_in_bytes": 3058
+      },
+      {
+        "_path": "site-packages/holidays/countries/japan.py",
+        "path_type": "hardlink",
+        "sha256": "3beaee76e47bb4758a82532596123d9e3b80f69160597f339a5bbc01bcc4e48e",
+        "sha256_in_prefix": "3beaee76e47bb4758a82532596123d9e3b80f69160597f339a5bbc01bcc4e48e",
+        "size_in_bytes": 10159
+      },
+      {
+        "_path": "site-packages/holidays/countries/kazakhstan.py",
+        "path_type": "hardlink",
+        "sha256": "4a82dee3e3891a5105cdf60d4a165a490d9ed5ab5c010f77c15beeeb81426b93",
+        "sha256_in_prefix": "4a82dee3e3891a5105cdf60d4a165a490d9ed5ab5c010f77c15beeeb81426b93",
+        "size_in_bytes": 2535
+      },
+      {
+        "_path": "site-packages/holidays/countries/kenya.py",
+        "path_type": "hardlink",
+        "sha256": "e3ae4b52527668277796c935b085d6c2b07899d772ff36fb3d7c37ae181fa5da",
+        "sha256_in_prefix": "e3ae4b52527668277796c935b085d6c2b07899d772ff36fb3d7c37ae181fa5da",
+        "size_in_bytes": 1897
+      },
+      {
+        "_path": "site-packages/holidays/countries/korea.py",
+        "path_type": "hardlink",
+        "sha256": "c8e876b47fd32f518643661c1e02f319c04b6158b6c3ffd3ae85e2246f7d8f0c",
+        "sha256_in_prefix": "c8e876b47fd32f518643661c1e02f319c04b6158b6c3ffd3ae85e2246f7d8f0c",
+        "size_in_bytes": 8490
+      },
+      {
+        "_path": "site-packages/holidays/countries/latvia.py",
+        "path_type": "hardlink",
+        "sha256": "4cba1c2490c6e9e6ea970826b7b593f4f5e068a9446d45f0c5333e96055fc4af",
+        "sha256_in_prefix": "4cba1c2490c6e9e6ea970826b7b593f4f5e068a9446d45f0c5333e96055fc4af",
+        "size_in_bytes": 2642
+      },
+      {
+        "_path": "site-packages/holidays/countries/lesotho.py",
+        "path_type": "hardlink",
+        "sha256": "5c9ee68aa33fc4f36e8ced01e4ca53e4eb82cd22c9e662c38a08101f2f3a2a85",
+        "sha256_in_prefix": "5c9ee68aa33fc4f36e8ced01e4ca53e4eb82cd22c9e662c38a08101f2f3a2a85",
+        "size_in_bytes": 2437
+      },
+      {
+        "_path": "site-packages/holidays/countries/lithuania.py",
+        "path_type": "hardlink",
+        "sha256": "779bd83a936e1b03ab6faf4d572d0d977bcd7b4c0e5698a94f56babe73e567c5",
+        "sha256_in_prefix": "779bd83a936e1b03ab6faf4d572d0d977bcd7b4c0e5698a94f56babe73e567c5",
+        "size_in_bytes": 2881
+      },
+      {
+        "_path": "site-packages/holidays/countries/luxembourg.py",
+        "path_type": "hardlink",
+        "sha256": "dd9df71fe50a97d8b8de5f21fd11fc335cb4bd387bce5a3dc9fb04ca9179cc5b",
+        "sha256_in_prefix": "dd9df71fe50a97d8b8de5f21fd11fc335cb4bd387bce5a3dc9fb04ca9179cc5b",
+        "size_in_bytes": 1773
+      },
+      {
+        "_path": "site-packages/holidays/countries/malawi.py",
+        "path_type": "hardlink",
+        "sha256": "3058a1943d31274d41a980506b11474c630cbe3d894a2420e93fa0ef0ef24d77",
+        "sha256_in_prefix": "3058a1943d31274d41a980506b11474c630cbe3d894a2420e93fa0ef0ef24d77",
+        "size_in_bytes": 2172
+      },
+      {
+        "_path": "site-packages/holidays/countries/malaysia.py",
+        "path_type": "hardlink",
+        "sha256": "7fd6150dc5f7c926150e8faaa4f77a7bc133fdc60853fb619c0e992051e536a8",
+        "sha256_in_prefix": "7fd6150dc5f7c926150e8faaa4f77a7bc133fdc60853fb619c0e992051e536a8",
+        "size_in_bytes": 22186
+      },
+      {
+        "_path": "site-packages/holidays/countries/mexico.py",
+        "path_type": "hardlink",
+        "sha256": "72ff7dd58d294c6566d60794343b845315820426e3b10b8db4becf4b01046eba",
+        "sha256_in_prefix": "72ff7dd58d294c6566d60794343b845315820426e3b10b8db4becf4b01046eba",
+        "size_in_bytes": 4244
+      },
+      {
+        "_path": "site-packages/holidays/countries/morocco.py",
+        "path_type": "hardlink",
+        "sha256": "6bd3232974a4e9c7a28add0a851f3e73dcabcdddbb015792cb5ea7701426b49e",
+        "sha256_in_prefix": "6bd3232974a4e9c7a28add0a851f3e73dcabcdddbb015792cb5ea7701426b49e",
+        "size_in_bytes": 4719
+      },
+      {
+        "_path": "site-packages/holidays/countries/mozambique.py",
+        "path_type": "hardlink",
+        "sha256": "5afd296a6a4cda011d5c79b2f5b4d572bd6e6ae76ce796deabf16f5d316ef769",
+        "sha256_in_prefix": "5afd296a6a4cda011d5c79b2f5b4d572bd6e6ae76ce796deabf16f5d316ef769",
+        "size_in_bytes": 2356
+      },
+      {
+        "_path": "site-packages/holidays/countries/namibia.py",
+        "path_type": "hardlink",
+        "sha256": "a0a53827546315bee7477a967bf05590f7d10a10398199fee7e4d2a2b391818c",
+        "sha256_in_prefix": "a0a53827546315bee7477a967bf05590f7d10a10398199fee7e4d2a2b391818c",
+        "size_in_bytes": 3029
+      },
+      {
+        "_path": "site-packages/holidays/countries/netherlands.py",
+        "path_type": "hardlink",
+        "sha256": "9c09691faae26c265dd3d9177ff4e38fd4c7608743ba771ebde6b21a284616ee",
+        "sha256_in_prefix": "9c09691faae26c265dd3d9177ff4e38fd4c7608743ba771ebde6b21a284616ee",
+        "size_in_bytes": 2634
+      },
+      {
+        "_path": "site-packages/holidays/countries/new_zealand.py",
+        "path_type": "hardlink",
+        "sha256": "6c7eec828eff078f7df5914ace5c0d5631f7dc9f611c0807905b6fabbd90bf8c",
+        "sha256_in_prefix": "6c7eec828eff078f7df5914ace5c0d5631f7dc9f611c0807905b6fabbd90bf8c",
+        "size_in_bytes": 10591
+      },
+      {
+        "_path": "site-packages/holidays/countries/nicaragua.py",
+        "path_type": "hardlink",
+        "sha256": "44ab376f61dd642ba013ada6b9c90297e563f289f914d68bc5a32e2cfaecc68b",
+        "sha256_in_prefix": "44ab376f61dd642ba013ada6b9c90297e563f289f914d68bc5a32e2cfaecc68b",
+        "size_in_bytes": 2353
+      },
+      {
+        "_path": "site-packages/holidays/countries/nigeria.py",
+        "path_type": "hardlink",
+        "sha256": "d93668f4a3bd089ceaff5562f23b2e9f7e3f14264e62f3c2d989fa7227f8c131",
+        "sha256_in_prefix": "d93668f4a3bd089ceaff5562f23b2e9f7e3f14264e62f3c2d989fa7227f8c131",
+        "size_in_bytes": 3497
+      },
+      {
+        "_path": "site-packages/holidays/countries/north_macedonia.py",
+        "path_type": "hardlink",
+        "sha256": "c9aa66b44cd92ddad971cd3738f3df8fd3b526c2db19f4ee40ff04089f4bebb7",
+        "sha256_in_prefix": "c9aa66b44cd92ddad971cd3738f3df8fd3b526c2db19f4ee40ff04089f4bebb7",
+        "size_in_bytes": 1909
+      },
+      {
+        "_path": "site-packages/holidays/countries/norway.py",
+        "path_type": "hardlink",
+        "sha256": "6a62c6f9482ade9e6cd12e8c3ee864115c138971e1ef845df093346fa8cc2675",
+        "sha256_in_prefix": "6a62c6f9482ade9e6cd12e8c3ee864115c138971e1ef845df093346fa8cc2675",
+        "size_in_bytes": 4304
+      },
+      {
+        "_path": "site-packages/holidays/countries/paraguay.py",
+        "path_type": "hardlink",
+        "sha256": "81e1ca44e55c978e3e84ecc3f23d8358e4720a66d137f503a27b7aa7bfd398e6",
+        "sha256_in_prefix": "81e1ca44e55c978e3e84ecc3f23d8358e4720a66d137f503a27b7aa7bfd398e6",
+        "size_in_bytes": 3922
+      },
+      {
+        "_path": "site-packages/holidays/countries/peru.py",
+        "path_type": "hardlink",
+        "sha256": "aa82b7465e3208f2928537eb904d18659b5dfc7de100a29fefa50a558ffec37d",
+        "sha256_in_prefix": "aa82b7465e3208f2928537eb904d18659b5dfc7de100a29fefa50a558ffec37d",
+        "size_in_bytes": 2736
+      },
+      {
+        "_path": "site-packages/holidays/countries/poland.py",
+        "path_type": "hardlink",
+        "sha256": "40a1fe64458d518294dbf729d6b471b70ce94fd4a10d0a3c91ab424a323f16fe",
+        "sha256_in_prefix": "40a1fe64458d518294dbf729d6b471b70ce94fd4a10d0a3c91ab424a323f16fe",
+        "size_in_bytes": 2143
+      },
+      {
+        "_path": "site-packages/holidays/countries/portugal.py",
+        "path_type": "hardlink",
+        "sha256": "d2b5870081716dcddd599db5dd58588cc52ad5bde3ef03b4626d0c8515817184",
+        "sha256_in_prefix": "d2b5870081716dcddd599db5dd58588cc52ad5bde3ef03b4626d0c8515817184",
+        "size_in_bytes": 2888
+      },
+      {
+        "_path": "site-packages/holidays/countries/romania.py",
+        "path_type": "hardlink",
+        "sha256": "375468ecfa878fd906d15923b642e3811b60df895f40bd331367b9d0ac1d4702",
+        "sha256_in_prefix": "375468ecfa878fd906d15923b642e3811b60df895f40bd331367b9d0ac1d4702",
+        "size_in_bytes": 2181
+      },
+      {
+        "_path": "site-packages/holidays/countries/russia.py",
+        "path_type": "hardlink",
+        "sha256": "e51823def40fc3a3bfd71cd6f90a9b55be3593fb098d3881d0af49dfd596deb7",
+        "sha256_in_prefix": "e51823def40fc3a3bfd71cd6f90a9b55be3593fb098d3881d0af49dfd596deb7",
+        "size_in_bytes": 2333
+      },
+      {
+        "_path": "site-packages/holidays/countries/saudi_arabia.py",
+        "path_type": "hardlink",
+        "sha256": "3a2c2b27f61e905d00d4d16020c78b9b587d06e8a4fd37ebb1f09527a2304019",
+        "sha256_in_prefix": "3a2c2b27f61e905d00d4d16020c78b9b587d06e8a4fd37ebb1f09527a2304019",
+        "size_in_bytes": 4943
+      },
+      {
+        "_path": "site-packages/holidays/countries/serbia.py",
+        "path_type": "hardlink",
+        "sha256": "1fd10ed334e226ed05e22b46f1a520b452af6f634c75490e0e68a52f8cd1c20b",
+        "sha256_in_prefix": "1fd10ed334e226ed05e22b46f1a520b452af6f634c75490e0e68a52f8cd1c20b",
+        "size_in_bytes": 2887
+      },
+      {
+        "_path": "site-packages/holidays/countries/singapore.py",
+        "path_type": "hardlink",
+        "sha256": "013ce9a531e7961f21a77b4edd8879426dd47cdc3bb25f6d3e826a72851cbe67",
+        "sha256_in_prefix": "013ce9a531e7961f21a77b4edd8879426dd47cdc3bb25f6d3e826a72851cbe67",
+        "size_in_bytes": 10363
+      },
+      {
+        "_path": "site-packages/holidays/countries/slovakia.py",
+        "path_type": "hardlink",
+        "sha256": "f150b28441a4bae714633588bb973d431c5d0a3affc8288e4ad02b6eb8667462",
+        "sha256_in_prefix": "f150b28441a4bae714633588bb973d431c5d0a3affc8288e4ad02b6eb8667462",
+        "size_in_bytes": 2456
+      },
+      {
+        "_path": "site-packages/holidays/countries/slovenia.py",
+        "path_type": "hardlink",
+        "sha256": "ed206c25ffba38fdb06896e077fca7e2ed563597a48db0532e8638d8edb2d6dd",
+        "sha256_in_prefix": "ed206c25ffba38fdb06896e077fca7e2ed563597a48db0532e8638d8edb2d6dd",
+        "size_in_bytes": 2788
+      },
+      {
+        "_path": "site-packages/holidays/countries/south_africa.py",
+        "path_type": "hardlink",
+        "sha256": "d1ae9eef5ad6f6d3f43370fb50a0fcb6b0a27caf01cea0ad933dd350ffd3cac5",
+        "sha256_in_prefix": "d1ae9eef5ad6f6d3f43370fb50a0fcb6b0a27caf01cea0ad933dd350ffd3cac5",
+        "size_in_bytes": 6341
+      },
+      {
+        "_path": "site-packages/holidays/countries/spain.py",
+        "path_type": "hardlink",
+        "sha256": "6293c51ff3efdc50003b4ad65bc10a64f979ddca106859f4ce0e86b1766cfcfe",
+        "sha256_in_prefix": "6293c51ff3efdc50003b4ad65bc10a64f979ddca106859f4ce0e86b1766cfcfe",
+        "size_in_bytes": 6829
+      },
+      {
+        "_path": "site-packages/holidays/countries/swaziland.py",
+        "path_type": "hardlink",
+        "sha256": "d05dd50e3e6b1fa683fd9a0fdada40b591c6872ee40dc0ced31b64f10bba4228",
+        "sha256_in_prefix": "d05dd50e3e6b1fa683fd9a0fdada40b591c6872ee40dc0ced31b64f10bba4228",
+        "size_in_bytes": 3025
+      },
+      {
+        "_path": "site-packages/holidays/countries/sweden.py",
+        "path_type": "hardlink",
+        "sha256": "b74871d9720519fc5c50ded32e2e910e197836930ec2e2262e378d8b7d280c23",
+        "sha256_in_prefix": "b74871d9720519fc5c50ded32e2e910e197836930ec2e2262e378d8b7d280c23",
+        "size_in_bytes": 4681
+      },
+      {
+        "_path": "site-packages/holidays/countries/switzerland.py",
+        "path_type": "hardlink",
+        "sha256": "1057b014ea690adf67014d5d50574e2315056c8ea274ae410513ae3472dd0cb8",
+        "sha256_in_prefix": "1057b014ea690adf67014d5d50574e2315056c8ea274ae410513ae3472dd0cb8",
+        "size_in_bytes": 5571
+      },
+      {
+        "_path": "site-packages/holidays/countries/taiwan.py",
+        "path_type": "hardlink",
+        "sha256": "cf285472cd34426dc1995152508256312195e9f5bfc6f249d2de8ef594113da2",
+        "sha256_in_prefix": "cf285472cd34426dc1995152508256312195e9f5bfc6f249d2de8ef594113da2",
+        "size_in_bytes": 2132
+      },
+      {
+        "_path": "site-packages/holidays/countries/tunisia.py",
+        "path_type": "hardlink",
+        "sha256": "0bb4f247cf4b6977d8c105d6d60b75e0f56294218d93df52711d14871cad0307",
+        "sha256_in_prefix": "0bb4f247cf4b6977d8c105d6d60b75e0f56294218d93df52711d14871cad0307",
+        "size_in_bytes": 4174
+      },
+      {
+        "_path": "site-packages/holidays/countries/turkey.py",
+        "path_type": "hardlink",
+        "sha256": "28530de230a33370b57617624be2f6b165b1c9f412047d6760ac848dbb5dce17",
+        "sha256_in_prefix": "28530de230a33370b57617624be2f6b165b1c9f412047d6760ac848dbb5dce17",
+        "size_in_bytes": 2530
+      },
+      {
+        "_path": "site-packages/holidays/countries/ukraine.py",
+        "path_type": "hardlink",
+        "sha256": "ed5568db0e0cdde717cbee3504c54edb2c5d6f8bd2027e5a1fb850b676568d92",
+        "sha256_in_prefix": "ed5568db0e0cdde717cbee3504c54edb2c5d6f8bd2027e5a1fb850b676568d92",
+        "size_in_bytes": 4287
+      },
+      {
+        "_path": "site-packages/holidays/countries/united_arab_emirates.py",
+        "path_type": "hardlink",
+        "sha256": "b160728a6e685f320fa6df0f3c78db18302c1b3d77407a732e90e954498df2d8",
+        "sha256_in_prefix": "b160728a6e685f320fa6df0f3c78db18302c1b3d77407a732e90e954498df2d8",
+        "size_in_bytes": 7093
+      },
+      {
+        "_path": "site-packages/holidays/countries/united_kingdom.py",
+        "path_type": "hardlink",
+        "sha256": "985efb8d2bd4705f97eac9b8e6adbfa068794362cd89a893e3684375ccac0743",
+        "sha256_in_prefix": "985efb8d2bd4705f97eac9b8e6adbfa068794362cd89a893e3684375ccac0743",
+        "size_in_bytes": 9060
+      },
+      {
+        "_path": "site-packages/holidays/countries/united_states.py",
+        "path_type": "hardlink",
+        "sha256": "9c7c092d640275f967b08b13b1e992d93e509860c7187c07aa84caa228b574ec",
+        "sha256_in_prefix": "9c7c092d640275f967b08b13b1e992d93e509860c7187c07aa84caa228b574ec",
+        "size_in_bytes": 23823
+      },
+      {
+        "_path": "site-packages/holidays/countries/uruguay.py",
+        "path_type": "hardlink",
+        "sha256": "40224afadac257f4fe6ca82ec6c83ef31546073c0aebfd0cf31a5bb71ad0df7f",
+        "sha256_in_prefix": "40224afadac257f4fe6ca82ec6c83ef31546073c0aebfd0cf31a5bb71ad0df7f",
+        "size_in_bytes": 4720
+      },
+      {
+        "_path": "site-packages/holidays/countries/venezuela.py",
+        "path_type": "hardlink",
+        "sha256": "e9fe333d24722fbdeceeba0911fbe761c33cd301628cf7f0db82ed0db193624f",
+        "sha256_in_prefix": "e9fe333d24722fbdeceeba0911fbe761c33cd301628cf7f0db82ed0db193624f",
+        "size_in_bytes": 2659
+      },
+      {
+        "_path": "site-packages/holidays/countries/vietnam.py",
+        "path_type": "hardlink",
+        "sha256": "14b3abb5991f1f495a59285772c7fda44aca42d37c3606790bbce6f30cc3a365",
+        "sha256_in_prefix": "14b3abb5991f1f495a59285772c7fda44aca42d37c3606790bbce6f30cc3a365",
+        "size_in_bytes": 3567
+      },
+      {
+        "_path": "site-packages/holidays/countries/zambia.py",
+        "path_type": "hardlink",
+        "sha256": "a5cc65705356aa02536caadc46f5d28056b8e29aee6f04a7a15ba9ecdfea7ec2",
+        "sha256_in_prefix": "a5cc65705356aa02536caadc46f5d28056b8e29aee6f04a7a15ba9ecdfea7ec2",
+        "size_in_bytes": 3378
+      },
+      {
+        "_path": "site-packages/holidays/countries/zimbabwe.py",
+        "path_type": "hardlink",
+        "sha256": "4734c73d3f7dce184fe69b9c2cc40cc8da75bbc1e33a3cb6da986857f11f2d36",
+        "sha256_in_prefix": "4734c73d3f7dce184fe69b9c2cc40cc8da75bbc1e33a3cb6da986857f11f2d36",
+        "size_in_bytes": 3285
+      },
+      {
+        "_path": "site-packages/holidays/holiday_base.py",
+        "path_type": "hardlink",
+        "sha256": "24868b0c2955605de71f794a81b3834747a07f14e24844bb59185b5b9082d370",
+        "sha256_in_prefix": "24868b0c2955605de71f794a81b3834747a07f14e24844bb59185b5b9082d370",
+        "size_in_bytes": 18835
+      },
+      {
+        "_path": "site-packages/holidays/utils.py",
+        "path_type": "hardlink",
+        "sha256": "dda8de60f7859c2ae8039b3066c96025cb3f0f79fd3f2235e6feeea69242d894",
+        "sha256_in_prefix": "dda8de60f7859c2ae8039b3066c96025cb3f0f79fd3f2235e6feeea69242d894",
+        "size_in_bytes": 16385
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/__pycache__/constants.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/angola.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/argentina.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/aruba.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/australia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/austria.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/azerbaijan.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/bangladesh.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/belarus.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/belgium.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/botswana.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/brazil.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/bulgaria.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/burundi.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/canada.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/chile.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/china.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/colombia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/croatia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/curacao.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/czechia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/denmark.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/djibouti.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/dominican_republic.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/egypt.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/estonia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/ethiopia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/european_central_bank.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/finland.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/france.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/georgia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/germany.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/greece.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/honduras.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/hongkong.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/hungary.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/iceland.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/india.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/ireland.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/israel.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/italy.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/jamaica.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/japan.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/kazakhstan.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/kenya.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/korea.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/latvia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/lesotho.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/lithuania.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/luxembourg.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/malawi.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/malaysia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/mexico.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/morocco.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/mozambique.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/namibia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/netherlands.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/new_zealand.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/nicaragua.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/nigeria.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/north_macedonia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/norway.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/paraguay.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/peru.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/poland.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/portugal.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/romania.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/russia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/saudi_arabia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/serbia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/singapore.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/slovakia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/slovenia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/south_africa.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/spain.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/swaziland.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/sweden.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/switzerland.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/taiwan.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/tunisia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/turkey.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/ukraine.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/united_arab_emirates.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/united_kingdom.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/united_states.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/uruguay.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/venezuela.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/vietnam.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/zambia.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/countries/__pycache__/zimbabwe.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/__pycache__/holiday_base.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/holidays/__pycache__/utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "holidays",
+  "sha256": "900344cd0b1c60338394f7fe1661c547f2ca1b934ac0cd89f23ccaa138088364",
+  "size": 84347,
+  "subdir": "noarch",
+  "timestamp": 1641326238118,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/holidays-0.12-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.12"
+}

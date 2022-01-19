@@ -1,0 +1,167 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/Users/gustavfredrikson/miniforge3/pkgs/hijri-converter-2.2.2-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/LICENSE",
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/METADATA",
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/RECORD",
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/WHEEL",
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/hijri_converter-2.2.2.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/hijri_converter/__init__.py",
+    "lib/python3.10/site-packages/hijri_converter/convert.py",
+    "lib/python3.10/site-packages/hijri_converter/helpers.py",
+    "lib/python3.10/site-packages/hijri_converter/locales.py",
+    "lib/python3.10/site-packages/hijri_converter/ummalqura.py",
+    "lib/python3.10/site-packages/hijri_converter/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/hijri_converter/__pycache__/convert.cpython-310.pyc",
+    "lib/python3.10/site-packages/hijri_converter/__pycache__/helpers.cpython-310.pyc",
+    "lib/python3.10/site-packages/hijri_converter/__pycache__/locales.cpython-310.pyc",
+    "lib/python3.10/site-packages/hijri_converter/__pycache__/ummalqura.cpython-310.pyc"
+  ],
+  "fn": "hijri-converter-2.2.2-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/gustavfredrikson/miniforge3/pkgs/hijri-converter-2.2.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "f54b888cf9192a317fa1c0cc5c693e73",
+  "name": "hijri-converter",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/gustavfredrikson/miniforge3/pkgs/hijri-converter-2.2.2-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "85d3f963d4e8e944fbc86810a254a35abf28364be74e6e4071bddd17a928494d",
+        "sha256_in_prefix": "85d3f963d4e8e944fbc86810a254a35abf28364be74e6e4071bddd17a928494d",
+        "size_in_bytes": 1101
+      },
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4ea9add34c2ec75a4a909aa1db2caf4f8fef08b5a7ce1879ba2518d818bed21d",
+        "sha256_in_prefix": "4ea9add34c2ec75a4a909aa1db2caf4f8fef08b5a7ce1879ba2518d818bed21d",
+        "size_in_bytes": 4541
+      },
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "bc7ce50c0828071ed9b40b04342b4921dcc2ca6f953d6417d86531a760ea614a",
+        "sha256_in_prefix": "bc7ce50c0828071ed9b40b04342b4921dcc2ca6f953d6417d86531a760ea614a",
+        "size_in_bytes": 1423
+      },
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "sha256_in_prefix": "7b0c04b9e8a8d42d977874ef4f5ee7f1d6542603afc82582b7459534b0a53fda",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "737ac4f6b2ad4281c35f44c1a397eb8bd4e572aef8f96848ef5f46d72361401a",
+        "sha256_in_prefix": "737ac4f6b2ad4281c35f44c1a397eb8bd4e572aef8f96848ef5f46d72361401a",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "site-packages/hijri_converter-2.2.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "532249689c8278b55ce153890e0ac7d8f20b1ab648a6f6eb2815eee521a04340",
+        "sha256_in_prefix": "532249689c8278b55ce153890e0ac7d8f20b1ab648a6f6eb2815eee521a04340",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "site-packages/hijri_converter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c2ec6daa3a1c2e0ee5bcb26e8d4e53b014258e08ca83f5077fdb676a34391762",
+        "sha256_in_prefix": "c2ec6daa3a1c2e0ee5bcb26e8d4e53b014258e08ca83f5077fdb676a34391762",
+        "size_in_bytes": 207
+      },
+      {
+        "_path": "site-packages/hijri_converter/convert.py",
+        "path_type": "hardlink",
+        "sha256": "ce2c83e7d2a2c5467c96e3642fc050f8cd009b65470ffaddf493c853d22868a5",
+        "sha256_in_prefix": "ce2c83e7d2a2c5467c96e3642fc050f8cd009b65470ffaddf493c853d22868a5",
+        "size_in_bytes": 10746
+      },
+      {
+        "_path": "site-packages/hijri_converter/helpers.py",
+        "path_type": "hardlink",
+        "sha256": "891a91fec43021aeacb612ea6823f659f67abeda0b75c4390eaee61420fec049",
+        "sha256_in_prefix": "891a91fec43021aeacb612ea6823f659f67abeda0b75c4390eaee61420fec049",
+        "size_in_bytes": 845
+      },
+      {
+        "_path": "site-packages/hijri_converter/locales.py",
+        "path_type": "hardlink",
+        "sha256": "f901abe08f9ef5652c43400f034f063046e190bb62d26ca7c0d808d25e2d06d8",
+        "sha256_in_prefix": "f901abe08f9ef5652c43400f034f063046e190bb62d26ca7c0d808d25e2d06d8",
+        "size_in_bytes": 4882
+      },
+      {
+        "_path": "site-packages/hijri_converter/ummalqura.py",
+        "path_type": "hardlink",
+        "sha256": "122fa37a61cde920a16f94535acdedb683e8dd84847b6756cc2de352728885da",
+        "sha256_in_prefix": "122fa37a61cde920a16f94535acdedb683e8dd84847b6756cc2de352728885da",
+        "size_in_bytes": 21502
+      },
+      {
+        "_path": "lib/python3.10/site-packages/hijri_converter/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/hijri_converter/__pycache__/convert.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/hijri_converter/__pycache__/helpers.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/hijri_converter/__pycache__/locales.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/hijri_converter/__pycache__/ummalqura.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "efc7b8f6dcfa1a12ada50a4f8b7632c3e3434c724a68af84ddeb25b92acfc784",
+  "size": 16981,
+  "subdir": "noarch",
+  "timestamp": 1632549610101,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/hijri-converter-2.2.2-pyhd8ed1ab_0.tar.bz2",
+  "version": "2.2.2"
+}
