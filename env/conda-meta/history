@@ -175,3 +175,8 @@
 +conda-forge/osx-arm64::pillow-8.4.0-py310h225ac4f_0
 +conda-forge/osx-arm64::zstd-1.5.1-h861e0a7_0
 # update specs: ['matplotlib']
+==> 2022-01-19 18:06:27 <==
+# cmd: /Users/gustavfredrikson/miniforge3/bin/conda install lightgbm
+# conda version: 4.11.0
++conda-forge/osx-arm64::lightgbm-3.3.2-py310h9799b42_0
+# update specs: ['lightgbm']
